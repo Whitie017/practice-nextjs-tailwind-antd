@@ -1,8 +1,8 @@
 import { Button } from 'antd'
 import App from './test'
-import NavigationBar from './NavigationBar'
-import Header from './Header'
-import Page from './Page'
+import NavigationBar from '../components/NavigationBar'
+import Header from '../components/Header'
+import Page from '../components/Page'
 
 
 export default function Home() {
